@@ -1,0 +1,6 @@
+{
+  "name": "SkillSwap",
+  "description": "Exchange Skills, Empower Future. A student-driven platform where students exchange skills instead of money.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
